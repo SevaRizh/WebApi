@@ -1,0 +1,14 @@
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\bin\Debug\netcoreapp2.2\TZ_C_Jun.deps.json
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\bin\Debug\netcoreapp2.2\TZ_C_Jun.runtimeconfig.json
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\bin\Debug\netcoreapp2.2\TZ_C_Jun.runtimeconfig.dev.json
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\bin\Debug\netcoreapp2.2\TZ_C_Jun.dll
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\bin\Debug\netcoreapp2.2\TZ_C_Jun.pdb
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.csproj.CoreCompileInputs.cache
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.RazorAssemblyInfo.cache
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.RazorAssemblyInfo.cs
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.AssemblyInfoInputs.cache
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.AssemblyInfo.cs
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.RazorTargetAssemblyInfo.cache
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.dll
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.pdb
+E:\Project VS Web\TZ_C_Jun\TZ_C_Jun\obj\Debug\netcoreapp2.2\TZ_C_Jun.csprojAssemblyReference.cache
